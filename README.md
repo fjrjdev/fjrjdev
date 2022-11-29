@@ -47,9 +47,8 @@
 
 ### Informações de contato
 
- - :mailbox: LinkedIn Direct Message:  
-    <sup>Mensagem Direta no LinkeIn </sup>  
-    ><a href="https://www.linkedin.com/messaging/thread/new/">
+ - :mailbox: Mensagem Direta no LinkeIn:  
+    <a href="https://www.linkedin.com/messaging/thread/new/">
      <img src="https://img.shields.io/badge/Fabio Junior-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 - :email: Email:  
