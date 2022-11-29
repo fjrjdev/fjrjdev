@@ -20,7 +20,7 @@
  - :page_facing_up: [Curriculo](https://drive.google.com/file/d/11uJn0mFe_yXFxnlWTsOOWMgpyYOr17V8/)
 
 
-### Tecnologias de domínioo 
+### Tecnologias de domínio 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
