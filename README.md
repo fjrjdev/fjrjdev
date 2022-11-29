@@ -1,7 +1,7 @@
 ### Olá sou o Fábio 👋
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/fjrjdev">
+  <a href="https://www.linkedin.com/in/fjdev">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 <br />
@@ -20,7 +20,7 @@
  - :page_facing_up: [Curriculo](https://drive.google.com/file/d/11uJn0mFe_yXFxnlWTsOOWMgpyYOr17V8/)
 
 
-### Linguagens de dominio 
+### Tecnologias de domínioo 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" **alt="Django" width="40" height="40"/>&nbsp;
@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-### Ferramentas:
+### Tecnologias de estilizaçao:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" title="Styled-Components" **alt="Styled-Components" width="40" height="40"/>&nbsp;
