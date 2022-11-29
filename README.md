@@ -27,12 +27,12 @@
 
 ### Informações de contato:
 
->:mailbox: LinkedIn Direct Message:  
-<sup>Mensagem Direta no LinkeIn </sup>  
-><a href="https://www.linkedin.com/messaging/thread/new/">
-  <img src="https://img.shields.io/badge/Fabio Junior-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+ - :mailbox: LinkedIn Direct Message:  
+    <sup>Mensagem Direta no LinkeIn </sup>  
+    ><a href="https://www.linkedin.com/messaging/thread/new/">
+     <img src="https://img.shields.io/badge/Fabio Junior-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
->:email: Email:  
+- :email: Email:  
 ><a href="mailto:contatofjrj@gmail.com">
   <img src="https://img.shields.io/badge/Fabio%20Jr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
