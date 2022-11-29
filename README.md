@@ -52,7 +52,7 @@
      <img src="https://img.shields.io/badge/Fabio Junior-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 - :email: Email:  
-    ><a href="mailto:contatofjrj@gmail.com">
+    <a href="mailto:contatofjrj@gmail.com">
     <img src="https://img.shields.io/badge/Fabio%20Jr-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
 <br />
