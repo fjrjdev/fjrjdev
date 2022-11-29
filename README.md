@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W" width="100"/>
+  <img src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e4713wd35d02ttrqkvpr3cpqoq2dtvfiwwa7kt2frkv&rid=giphy.gif&ct=g" width="100"/>
 </div>
 ### Olá sou o Fábio 👋
 <div id="badges">
