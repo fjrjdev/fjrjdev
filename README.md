@@ -66,7 +66,7 @@
 <a href="https://github.com/fjrjdev">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrjdev&layout=compact&theme=monokai&bg_color=0d1117&hide_border=true"/></a>
 <br />
-<a href="https://github.com/Hbler">
+<a href="https://github.com/fjrjdev">
 <img src="https://github-readme-stats.vercel.app/api?username=fjrjdev&show_icons=true&theme=monokai&custom_title=My%20Github%20Stats&bg_color=0d1117&hide_border=true"/></a>
 
 <a href="https://github.com/fjrjdev">
