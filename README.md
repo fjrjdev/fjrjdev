@@ -37,7 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-### Tecnologias de estilizaçao:
+### Tecnologias de estilizaçao
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" heigth="40"/>&nbsp;
   <img src="https://github.com/styled-components/brand/blob/master/styled-components.svg" title="Styled-Components" **alt="Styled-Components" width="40" height="40"/>&nbsp;
