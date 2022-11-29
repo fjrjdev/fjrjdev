@@ -12,15 +12,16 @@
 
 ### Sobre mim
 
-Tenho 24 anos
-Moro em São Gonçalo - RJ / Brasil
+ - Tenho 24 anos
+ - Moro em São Gonçalo - RJ / Brasil
 
-Estou buscando minha primeira oportunidade para por em pratica meus conhecimentos independente da linguagem, estou disposto a aprender aduarmente com um unico de agregar e entregar o melhor produto possivél, levando sempre as boas praticas e cuidado em primeiro lugar.
+ - Estou buscando minha primeira oportunidade para por em pratica meus conhecimentos independente da    linguagem, estou disposto a aprender aduarmente com um unico de agregar e entregar o melhor produto possivél, levando sempre as boas praticas e cuidado em primeiro lugar.
 
-:heavy_check_mark: Objetivo: Desenvoledor Full Stack
+ - :heavy_check_mark: Objetivo: Desenvoledor Full Stack
 
-:eyes: Curiosidade: Tenho um papaguaio chamado Caio que canta o hino do flamengo.
-:page_facing_up: [Curriculo](https://drive.google.com/file/d/11uJn0mFe_yXFxnlWTsOOWMgpyYOr17V8/)
+ - :eyes: Curiosidade: Tenho um papaguaio chamado Caio que canta o hino do flamengo.
+
+ - :page_facing_up: [Curriculo](https://drive.google.com/file/d/11uJn0mFe_yXFxnlWTsOOWMgpyYOr17V8/)
 
 
 
@@ -29,7 +30,7 @@ Estou buscando minha primeira oportunidade para por em pratica meus conhecimento
 >:mailbox: LinkedIn Direct Message:  
 <sup>Mensagem Direta no LinkeIn </sup>  
 ><a href="https://www.linkedin.com/messaging/thread/new/">
-  <img src="https://img.shields.io/badge/Hugo%20Bler-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <img src="https://img.shields.io/badge/Fabio Junior-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 >:email: Email:  
 ><a href="mailto:contatofjrj@gmail.com">
