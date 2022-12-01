@@ -11,7 +11,7 @@
  - Tenho 24 anos
  - Moro em São Gonçalo - RJ / Brasil
 
- - Estou buscando minha primeira oportunidade para por em pratica meus conhecimentos independente da    linguagem, estou disposto a aprender aduarmente com um unico de agregar e entregar o melhor produto possivél, levando sempre as boas praticas e cuidado em primeiro lugar.
+ - Estou buscando minha primeira oportunidade para por em pratica meus conhecimentos independente da linguagem, estou disposto a aprender aduarmente com um unico objetivo de agregar e entregar o melhor produto possivél, levando sempre as boas praticas e cuidado em primeiro lugar.
 
  - :heavy_check_mark: Objetivo: Desenvoledor Full Stack
 
