@@ -57,9 +57,6 @@
 <br />
 
 
-<a href="https://github.com/fjrjdev">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjrjdev&layout=compact&theme=monokai&bg_color=0d1117&hide_border=true"/></a>
-<br />
 
 <a href="https://github.com/fjrjdev">
   
