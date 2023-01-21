@@ -8,7 +8,9 @@
 
 ### Sobre mim
 
- - Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, aderindo às melhores práticas do setor e garantia de qualidade.
+ - Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. 
+ - Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. 
+ - Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, aderindo às melhores práticas do setor e garantia de qualidade.
 
  - :heavy_check_mark: Objetivo: Desenvoledor Web Full Stack
 
