@@ -8,15 +8,13 @@
 
 ### Sobre mim
 
- - Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. 
- - Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. 
- - Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, aderindo às melhores práticas do setor e garantia de qualidade.
+Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, priorizando a capacidade de manutenção, escalabilidade e robustez do código.
 
- - :heavy_check_mark: Objetivo: Desenvoledor Web Full Stack
+ :heavy_check_mark: Objetivo: Desenvoledor Web Full Stack
 
- - :eyes: Curiosidade: Tenho um papaguaio chamado Caio que canta o hino do flamengo.
+ :eyes: Curiosidade: Tenho um papaguaio chamado Caio que canta o hino do flamengo.
 
- - :page_facing_up: [Curriculo](https://drive.google.com/file/d/11uJn0mFe_yXFxnlWTsOOWMgpyYOr17V8/)
+ :page_facing_up: [Curriculo](https://drive.google.com/file/d/11uJn0mFe_yXFxnlWTsOOWMgpyYOr17V8/)
 
 
 ### Tecnologias de domínio 
