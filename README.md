@@ -8,10 +8,7 @@
 
 ### Sobre mim
 
- - Tenho 24 anos
- - Moro em São Gonçalo - RJ / Brasil
-
- - Estou buscando minha primeira oportunidade para por em pratica meus conhecimentos independente da linguagem, estou disposto a aprender aduarmente com um unico objetivo de agregar e entregar o melhor produto possivél, levando sempre as boas praticas e cuidado em primeiro lugar.
+ - Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, aderindo às melhores práticas do setor e garantia de qualidade.
 
  - :heavy_check_mark: Objetivo: Desenvoledor Web Full Stack
 
