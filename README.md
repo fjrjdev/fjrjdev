@@ -43,11 +43,11 @@ Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou busc
 
 ### Informações de contato
 
- - :mailbox: Mensagem Direta no LinkeIn:  
+  :mailbox: Mensagem Direta no LinkeIn:  
     <a href="https://www.linkedin.com/messaging/thread/new/">
      <img src="https://img.shields.io/badge/Fabio Junior-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-- :email: Email:  
+ :email: Email:  
     <a href="mailto:contatofjrj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 
