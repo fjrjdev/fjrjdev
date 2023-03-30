@@ -42,6 +42,13 @@ Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou busc
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
+### Estudando atualmente
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB"  width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 17" alt="Java 17" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" title="Clojure" alt="Clojure" width="40" height="40"/>&nbsp;
+</div>
+
 ### Informações de contato
 
   :mailbox: Mensagem Direta no LinkeIn:  
