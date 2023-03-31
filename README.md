@@ -14,7 +14,6 @@ Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou busc
 
  :eyes: Curiosidade: Tenho um papaguaio chamado Caio que canta o hino do flamengo.
 
- :page_facing_up: 
   📃:[Meu Portifólio](https://fabiojunior.vercel.app/)
 
 
