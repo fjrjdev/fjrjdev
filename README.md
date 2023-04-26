@@ -10,11 +10,7 @@
 
 Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, priorizando a capacidade de manutenção, escalabilidade e robustez do código.
 
- :heavy_check_mark: Objetivo: Desenvoledor Web Full Stack
-
- :eyes: Curiosidade: Tenho um papaguaio chamado Caio que canta o hino do flamengo.
-
-  📃:[Meu Portifólio](https://fabiojunior.vercel.app/)
+📃:[Meu Portifólio](https://fabiojunior.vercel.app/)
 
 
 ### Tecnologias de domínio 
