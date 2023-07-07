@@ -7,7 +7,7 @@
 
 ### Sobre mim
 
-Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou buscando minha primeira oportunidade de colocar minhas habilidades em uso, independentemente da linguagem de programação. Estou ansioso para aprender e melhorar continuamente, com o objetivo de entregar o melhor produto possível, priorizando a capacidade de manutenção, escalabilidade e robustez do código.
+Olá! Sou um desenvolvedor de software de 24 anos de idade, com experiência na área de desenvolvimento backend. Tenho uma paixão por aprender e estou constantemente aprimorando minhas habilidades para fornecer produtos de alta qualidade.
 
 📃:[Meu Portifólio](https://fabiojunior.vercel.app/)
 
