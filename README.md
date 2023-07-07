@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/fjdev">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
-<br />
 
 ### Sobre mim
 
@@ -40,7 +39,6 @@ Sou um desenvolvedor de software de 24 anos de São Gonçalo, Brasil. Estou busc
 ### Estudando atualmente
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB"  width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java 17" alt="Java 17" width="40" height="40"/>&nbsp;
 </div>
 
 ### Informações de contato
