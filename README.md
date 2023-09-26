@@ -50,13 +50,3 @@ Olá! Sou um desenvolvedor de software de 24 anos de idade, com experiência na 
  :email: Email:  
     <a href="mailto:contatofjrj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-
-<br />
-
-
-
-<a href="https://github.com/fjrjdev">
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fjrjdev&theme=monokai&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-  
-</a>
