@@ -24,6 +24,7 @@ Olá! Sou um desenvolvedor de software de 24 anos de idade, com experiência na 
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
    title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/typeorm/typeorm/raw/master/resources/logo_big.png" title="TypeORM" alt="TypeORM" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
@@ -38,7 +39,7 @@ Olá! Sou um desenvolvedor de software de 24 anos de idade, com experiência na 
 
 ### Estudando atualmente
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB"  width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust"  width="40" height="40"/>&nbsp
 </div>
 
 ### Informações de contato
